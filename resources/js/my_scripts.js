@@ -153,11 +153,9 @@ function loadPlayersPage(){
 		// 	   (this will need to pass in the index inside the players array)
 		// 4. Set the anchor tag's text to the player's name.
 
-		
+
 
 	}
-
-
 
 	// var dropMenu = document.getElementById("player_selector");
 	// for (var i = 0; i < players.legth, i++){
@@ -170,11 +168,5 @@ function loadPlayersPage(){
 }
 
 function switchPlayers(playerNum){
-	// document.getElementById('p_year').innerHTML = player[playerCounter].year;
-	// document.getElementById('p_major').innerHTML = player[playerCounter].major;
-	// document.getElementById('g_played').innerHTML = player[playerCounter].games_played;
-	// document.getElementById('player_img').innerHTML = player[playerCounter].img;
-	// document.getElementById('p_yards').innerHTML = player[playerCounter].pass_yards;
-	// document.getElementById('r_yards').innerHTML = player[playerCounter].rushing_yards;
-	// document.getElementById('rec_yards').innerHTML = player[playerCounter].receiving_yards;
+	
 }
