@@ -43,7 +43,6 @@ function viewStudentStats(id, toggle) {
 	}
 }
 
-
 /*
 	Home Page:
 		changeColor(color) method
@@ -53,7 +52,9 @@ function viewStudentStats(id, toggle) {
 			purpose: This method will set the html body's background color to the
 					 provided parameter.
 */
-
+function changeColor(color){
+	document.body.style.backgroundColor=color;
+}
 
 /*
 	Football Season Stats Page:
